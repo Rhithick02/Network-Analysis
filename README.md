@@ -20,6 +20,7 @@ This Program is capabale of 3 tasks:
     
 3. RLC Circuit:
     Given R, L, C and f it would output:
+    
       a) Inductive Reactance.
       
       b) Capacitive Reactance.
