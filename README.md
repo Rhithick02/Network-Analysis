@@ -21,10 +21,17 @@ This Program is capabale of 3 tasks:
 3. RLC Circuit:
     Given R, L, C and f it would output:
       a) Inductive Reactance.
+      
       b) Capacitive Reactance.
+      
       c) Impedance of the circuit.
+      
       d) Phase angle.
+      
       e) Resonant frequency
+      
       f) Q factor
+      
       g) Bandwidth
+     
       h) Graph of Impedance vs Frequency.
